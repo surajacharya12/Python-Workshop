@@ -197,3 +197,5 @@ Found an error or have suggestions? Feel free to:
 **Happy Learning! 🐍**
 
 _Remember: Every expert was once a beginner. Keep practicing and you'll get there!_
+
+https://ai-insights-web.vercel.app/view-course/1f33eef4-6629-4c47-b021-358924af5fec
